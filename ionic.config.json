@@ -1,0 +1,8 @@
+{
+  "name": "eir_patient_poc",
+  "app_id": "929fa6bc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
